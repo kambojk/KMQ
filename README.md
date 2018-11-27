@@ -1,12 +1,5 @@
 # KMQ
 
-KMQ, short for Korean Music Quiz, is an application where you hear a korean pop song, and try to guess which artist, song, or other fun categories that have yet to be implemented.
+fellas have you ever thought to yourself, "wow I really want to play a music quiz, but I don't like anime or kpop!"
 
-##Long term TODO list:
-
-* figure out which back end web technologies to use in order to make this game the most **EPIC**
-* implement about the settings to make this game **fun** 
-* create some sort of user interface that is responsive and intuitive
-
-For now since these goals clearly are extremely vague, I am going to spend some time clarifying and going further in depth on the first and last bullet points.
-
+Good news, KMQ is for you! KMQ stands for kambojk's music quiz. Well it  mean something else later but idk. Right now i'm just going to like uhh make it be sonic music because i love me some sonic the hedgehog, and the player has to guess which game it came from. seems simple except i need to actually make the database. I've filled in like 300 song names and now i need to go get the youtube links. theres an excel file with everything i've done, one day this will be done, but idk when this is. also don't worry about it, i'm not gonna make this a kpop music game. Thats just dumb.
